@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Dell\Desktop\SCHOOL\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
